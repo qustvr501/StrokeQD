@@ -1,2 +1,2 @@
 # QDStroke
-This is a dataset about Qingdao ischemic stroke
+This is a large-scale ischemic stroke dataset established by the cooperation of VRIS research team，Qilu Hospital of Shandong University (Qingdao) and Qingdao Municipal Hospital. Currently StrokeQD Phase I has been completed with14,321 MRI images and corresponding clinical imaging reports of 775 patients with ischemic stroke in the two hospitals from 2017 to 2019. Each lesion in MRI images is accurately labeled with its ROI by professional neurologists.
