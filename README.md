@@ -1,6 +1,6 @@
 # StrokeQD
 <img src="https://img.shields.io/badge/StrokeQD-Introduction-brightgreen" /><br>
-  StrokeQD is a large-scale ischemic stroke dataset established by the cooperation of VRIS research team in Qingdao University of Science & Technology，Qilu Hospital of Shandong University (Qingdao) and Qingdao Municipal Hospital. Currently StrokeQD Phase I has been completed with14,321 MRI-DWI images and corresponding clinical imaging reports of 775 patients with ischemic stroke in the two hospitals from 2017 to 2019. Each lesion in MRI images is accurately labeled with its ROI by professional neurologists.
+  StrokeQD is a large-scale ischemic stroke dataset established by the cooperation of VRIS research team in Qingdao University of Science & Technology，Qilu Hospital of Shandong University (Qingdao) and Qingdao Municipal Hospital. Currently StrokeQD Phase I and Phase II have been completed with 22626 MRI-DWI images and corresponding clinical imaging reports of 1181 patients with ischemic stroke in the two hospitals from 2017 to 2020. Each lesion in MRI images is accurately labeled with its ROI by professional neurologists.
 
 <br><img src="https://img.shields.io/badge/StrokeQD-Request-brightgreen" /><br>
   The StrokeQD dataset is released to universities and research institutes for research purpose only.To request the access right to the dataset, please do as follows:[here](https://github.com/qustvr501/StrokeQD/blob/main/StrokeQD%20Dataset%20Release%20Agreement.pdf)
